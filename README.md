@@ -1,2 +1,2 @@
 # NN_class
-A basic Neural Network written from scratch.
+A Neural Network written from scratch. Very similar to the MLPClassifier in the scipy library.
